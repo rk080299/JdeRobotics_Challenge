@@ -176,7 +176,7 @@ class Controls(object):
 
 
 if __name__ == '__main__':
-    n = input('Enter number of rows(20 or 30 or 50): ')
+    n = input('Enter number of rows(15 or 30 or 45): ')
 
     Controls(*{
         '15': (15,),
